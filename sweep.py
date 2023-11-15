@@ -49,4 +49,3 @@ grid = [
   [0,0,0]
 ]
 print (validate(grid))
-
