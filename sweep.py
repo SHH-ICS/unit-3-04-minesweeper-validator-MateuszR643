@@ -42,7 +42,6 @@ def validate( block_data ):
     return "Invalid minesweeper board. Must be square."
   return "Valid minesweeper board!"
 
-
 grid = [
   [-1,1,0],
   [1,1,0],
